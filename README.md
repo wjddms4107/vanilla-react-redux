@@ -8,7 +8,7 @@ getState처럼 store에서 정보를 가져온다. </br>
 - useDispatch (= mapDispatchToProps) </br>
 action을 바꿔 state를 바꾼다. </br>
 
-< reduxToolkit >
+< ReduxToolkit >
 
 1. createAction </br>
 자동적으로 어떠한 type의 action을 생성할 것이고 내가 주는 값을 payload 한다. </br>
