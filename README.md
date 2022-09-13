@@ -1,3 +1,3 @@
-# Vanilla Redux
+# Redux, ReduxToolkit
 
-Learning Vanilla-Redux and React-Redux, React-ReduxToolKit
+Learning Vanilla-Redux and React-Redux, React-ReduxToolkit
